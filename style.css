@@ -1,0 +1,20 @@
+body {
+  background-color:#ff9933;
+}
+
+#demo {
+  font-size: 90px;
+  justify-content: center;
+  text-align: center;
+}
+
+#imgcontainer {
+  
+  justify-content: center;
+  text-align: center;
+  visibility: hidden;
+  max-width: 100%;
+  height:auto;
+}
+
+  
